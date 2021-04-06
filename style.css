@@ -1,0 +1,177 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	text-align: center;
+}
+.wrapper {
+	width: 1850px;
+	margin: 0 auto;
+}
+header {
+	height: 100px;
+	background: #262626;
+	width: 100%;
+	z-index: 10;
+	position: fixed;
+}
+.logo {
+	width: 1%;
+	float: left;
+	line-height: 100px;
+}
+.logo a {
+	text-decoration: none;
+	font-size: 30px;
+	font-family: Pacifico;
+	color: white;
+	letter-spacing: 5px;
+}
+nav {
+	float: right;
+	line-height: 100px;
+}
+nav a {
+	text-decoration: none;
+	font-family: poppins;
+	letter-spacing: 4px;
+	font-size: 20px;
+	margin: 0 10px;
+	color: #fff;
+}
+.banner-area {
+	width: 100%;
+	height: 500px;
+	position: fixed;
+	top: 100px;
+	background-image: url(https://images.wallpaperscraft.com/image/mountain_forest_dark_141603_1920x1080.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+.banner-area h2 {
+	padding-top: 8%;
+	font-size: 30px;
+	font-family: poppins;
+	text-transform: uppercase;
+	color: white;
+}
+.banner-area p {
+	padding: 1% 0px;
+	font-family: Yellowtail;
+	line-height: 5px;
+	color: white;
+}
+.content-area {
+	width: 100%;
+	position: relative;
+	top: 500px;
+	background: #ebebeb;
+	height: 450px;
+}
+.content-area h2 {
+	font-family: Lobster;
+	letter-spacing: 4px;
+	padding-top: 30px;
+	font-size: 40px;
+	margin: 0;
+}
+.content-area p {
+	padding: 2% 0px;
+	font-family: Yellowtail;
+	line-height: 30px;
+}
+.content-arear {
+	width: 100%;
+	position: relative;
+	top: 500px;
+	background: #ebebeb;
+	height: 450px;
+}
+.content-arear h2 {
+	font-family: Lobster;
+	letter-spacing: 4px;
+	padding-top: 30px;
+	font-size: 40px;
+	margin: 0;
+}
+.content-arear p {
+	padding: 2% 0px;
+	font-family: Yellowtail;
+	line-height: 30px;
+}
+.hobbies img{
+	width: 20%;
+	height: 20%;
+	position: relative;
+	top: 200px;
+	margin-left: 100px;
+	
+	
+	
+	
+}
+.hobbies h2{
+	font-family: popinis;
+	letter-spacing: 0px;
+	padding-top: 30px;
+	font-size: 30px;
+	margin: 0px;
+	top: 490px;
+	position: relative;
+	margin-left: -45%;
+}
+
+.button {
+	background-color: #4d9af1; 
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+    font-size: 20px;
+	margin: 0px;
+    cursor: pointer;
+	position: relative;
+	top: -450px;
+	
+	
+	
+}
+.button1 {
+	background-color: white; 
+	color: black; 
+    border: 2px solid #4aaeff;
+    
+    
+  }
+  .button1:hover {
+  background-color: #4592eb;
+  color: white;
+}
+
+
+.socker h2 {
+	font-family: popinis;
+	letter-spacing: 0px;
+	padding-top: 30px;
+	font-size: 30px;
+	margin: 0px;
+	top: 110px;
+	position: relative;
+	margin-left: 5%;
+}
+
+.gamer h2 {
+	font-family: popinis;
+	letter-spacing: 0px;
+	padding-top: 30px;
+	font-size: 30px;
+	margin: 0px;
+	top: 45px;
+	position: relative;
+	margin-left: 55%;
+}
+
